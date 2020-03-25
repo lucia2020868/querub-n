@@ -1,2 +1,2 @@
-# querub-n
+# querubín
 Hola soy pura 
